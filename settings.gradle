@@ -1,0 +1,5 @@
+rootProject.name = 'Gradle_hmw'
+include 'db'
+include 'service'
+include 'api'
+
